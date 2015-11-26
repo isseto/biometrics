@@ -1161,7 +1161,7 @@ button, .button {
   display: inline-block;
   padding: 1rem 2rem 1.0625rem 2rem;
   font-size: 1rem;
-  background-color: #3ca5d9;
+  background-color: #6ba2c1;
   border-color: #007095;
   color: #FFFFFF;
   transition: background-color 300ms ease-out; }
@@ -1350,7 +1350,7 @@ form .row textarea.columns {
 
 /* Label Styles */
 label {
-  color: #3ca5d9;
+  color: #36a7d8;
   cursor: pointer;
   display: block;
   font-size: 1rem;
@@ -3743,7 +3743,7 @@ p {
 
 /* Default header styles */
 h1, h2, h3, h4, h5, h6 {
-  color: #222222;
+  color: #333;
   font-family: "Open Sans", Helvetica, Roboto, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;

@@ -9,13 +9,22 @@
 	margin-bottom: 1em;
 	font-weight: 600;}
 .intropanel h2,
-.intropanel p {color: #2e7ea6;}
+.intropanel p {color: #3f5c89;}
 
 .formpanel {
 	margin-top: 4em;
-	margin-bottom: 2em;
+	margin-bottom: 2em;}
+.formpanel h4 {
+	color: #3f5c89;
+	font-weight: 600;}
+
+.scanpanel {
+	text-align: center;
+	margin: 5em auto;
+	padding: 5em 0;
+	background: #263655;
 }
-.formpanel h4 {color: #2e7ea6}
+.scanpanel h4 {color: #FFF;}
 
 .buttoncenter {text-align: center}
 .buttonright {
