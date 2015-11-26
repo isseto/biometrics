@@ -5,12 +5,20 @@
 	padding-bottom: 5em;
 }
 .intropanel .button {margin-top: 2.5em;}
-.intropanel h2 {margin-bottom: 1em;}
+.intropanel h2 {
+	margin-bottom: 1em;
+	font-weight: 600;}
 .intropanel h2,
-.intropanel p {color: #FFF;}
+.intropanel p {color: #2e7ea6;}
 
 .formpanel {
 	margin-top: 4em;
 	margin-bottom: 2em;
 }
-.formpanel h4 {color: #FFF}
+.formpanel h4 {color: #2e7ea6}
+
+.buttoncenter {text-align: center}
+.buttonright {
+	text-align: right;
+	margin-top: 2em;
+}	
